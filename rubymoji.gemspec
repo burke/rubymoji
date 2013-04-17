@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Rubymoji::VERSION
   spec.authors       = ["Burke Libbey"]
   spec.email         = ["burke@libbey.me"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Handy methods to make emoji}
+  spec.summary       = %q{Handy methods to make emoji}
   spec.homepage      = ""
   spec.license       = "MIT"
 
